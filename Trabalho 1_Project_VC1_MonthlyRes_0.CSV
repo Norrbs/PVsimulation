@@ -1,0 +1,26 @@
+PVSYST 8.0.11
+;File;File date;Description
+Project;Trabalho 1_Project.PRJ;23/05/25 10h49;Trabalho 1;
+Geographical Site;Brasilia_PVGIS_API_TMY.SIT;23/05/25 10h49;Brasilia;Brazil;South_America;;
+Weather data;Brasilia_PVGIS_API_TMY.MET;22/05/25 16h02;Brasilia;PVGIS api TMY;TMY;
+Simulation variant;Trabalho 1_Project.VC1;23/05/25 13h24;New simulation variant;
+Simulation date;;23/05/25 13h25
+
+Simulation:;Monthly values; from 01/01/90; to 31/12/90 
+
+date;EArray;EOutInv
+    ;kWh/mth;kWh/mth
+
+01/01/90;23883;23528
+01/02/90;21369;21056
+01/03/90;25331;24984
+01/04/90;24697;24365
+01/05/90;25968;25629
+01/06/90;25956;25620
+01/07/90;26193;25855
+01/08/90;29069;28706
+01/09/90;26103;25764
+01/10/90;25270;24916
+01/11/90;21847;21516
+01/12/90;25814;25437
+Yearly total;301501;297377
